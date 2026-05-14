@@ -1,2 +1,2 @@
 # learning-python
-🐍 Minha jornada de aprendizado em Python — exercícios e desafios do básico ao avançado, incluindo estruturas de dados, matrizes e algoritmos.
+🐍 Repositório com exercícios e desafios em Python focados no desenvolvimento de lógica de programação e resolução de problemas. Inclui práticas com condicionais, loops e manipulação de dados, visando consolidar uma base sólida em programação.
